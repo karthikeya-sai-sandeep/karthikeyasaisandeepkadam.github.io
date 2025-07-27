@@ -2,7 +2,7 @@
 
 A modern, responsive portfolio website built with Bootstrap 5 and advanced web technologies showcasing the professional profile of a QA Automation Test Engineer.
 
-🌐 **Live Website**: [karthikeyasaisandeepkadam.github.io](https://karthikeyasaisandeepkadam.github.io)
+🌐 **Live Website**: [karthikeyasaisandeepkadam.com](https://www.karthikeyasaisandeepkadam.com)
 
 ## 🌟 Features
 
